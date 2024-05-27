@@ -1,6 +1,11 @@
-.DS_Store
+# .DS_Store
 node_modules
 /dist
+src/assets/logo.png
+src/components/HelloWorld.vue
+logo.png
+HelloWorld.vue
+
 
 
 # local env files
@@ -21,3 +26,5 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+
